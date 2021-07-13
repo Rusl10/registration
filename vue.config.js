@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: "/registration-deploy/",
+    publicPath: "/registration/",
 };
